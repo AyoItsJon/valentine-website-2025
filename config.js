@@ -24,7 +24,7 @@ const CONFIG = {
         first: {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes Daddy❤️",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            noBtn: "Ew No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "LETS GO! I'm the luckiest man in the world! 🥰💝💖💝💓",
+        title: "LETS GOO! I'm the luckiest man in the world! 🥰💝💖💝💓",
         message: "Now cum to daddy and get a bunch of kisses and some backshots🥵",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🩵😘😛💝🍆🍑💦❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
